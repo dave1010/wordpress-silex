@@ -1,5 +1,7 @@
 {
     "require": {
-        "silex/silex": "1.*"
+        "silex/silex": "1.*",
+	"mheap/silex-memcache": "dev-master",
+	"twig/twig": ">=1.8,<2.0-dev"
     }
 }
